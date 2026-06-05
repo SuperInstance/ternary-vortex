@@ -1,0 +1,8 @@
+[package]
+name = "ternary-vortex"
+version = "0.1.0"
+edition = "2021"
+description = "Vortex dynamics and fluid-like flow in ternary grids — circulation, vorticity, Biot-Savart"
+license = "MIT"
+
+[dependencies]
